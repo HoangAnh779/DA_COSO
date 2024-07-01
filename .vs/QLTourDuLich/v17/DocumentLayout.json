@@ -1,0 +1,981 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DA_COSO\\QLTourDuLich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\scripts\\jsshopping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\scripts\\jsshopping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\article\\partial_news_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\article\\partial_news_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\content\\assets\\plugins\\moment\\locale\\da.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\content\\assets\\plugins\\moment\\locale\\da.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\order\\partial_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\order\\partial_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\menu\\_menuarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\menu\\_menuarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\menu\\_menuleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\menu\\_menuleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\products\\partial_itemsbycateid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\products\\partial_itemsbycateid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\products\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\products\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\productimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\views\\products\\partial_productsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\products\\partial_productsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|e:\\da_coso\\qltourdulich\\qltourdulich\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\sendcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\sendcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\account\\externalloginconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\account\\externalloginconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\article\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\article\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|E:\\DA_COSO\\QLTourDuLich\\qltourdulich\\views\\home\\partial_subcrice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|QLTourDuLich\\QLTourDuLich.csproj|solutionrelative:qltourdulich\\views\\home\\partial_subcrice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Controllers\\ArticleController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:31:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:22:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:19:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:04:26.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Partial_Item_ThanhToan.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:03:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Partial_CheckOut.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:03:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:00:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckOutSuccess.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T03:55:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T03:55:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "modernizr-2.8.3.js",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Scripts\\modernizr-2.8.3.js",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Scripts\\modernizr-2.8.3.js",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Scripts\\modernizr-2.8.3.js",
+              "RelativeToolTip": "QLTourDuLich\\Scripts\\modernizr-2.8.3.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-22T03:39:40.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jsShopping.js",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Scripts\\jsShopping.js",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Scripts\\jsShopping.js",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Scripts\\jsShopping.js",
+              "RelativeToolTip": "QLTourDuLich\\Scripts\\jsShopping.js",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-22T03:37:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Partial_Item_Cart.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T03:31:09.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:18:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "da.js",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Content\\assets\\plugins\\moment\\locale\\da.js",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Content\\assets\\plugins\\moment\\locale\\da.js",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Content\\assets\\plugins\\moment\\locale\\da.js",
+              "RelativeToolTip": "QLTourDuLich\\Content\\assets\\plugins\\moment\\locale\\da.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-22T03:18:15.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAGoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:44:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Partial_SanPham.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:44:02.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:43:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:37:33.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_MenuLeft.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Menu\\_MenuLeft.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Menu\\_MenuLeft.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Menu\\_MenuLeft.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Menu\\_MenuLeft.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:26:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Partial_ItemsByCateId.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:21:03.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_MenuArrivals.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Menu\\_MenuArrivals.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Menu\\_MenuArrivals.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Menu\\_MenuArrivals.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Menu\\_MenuArrivals.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEIAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:20:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:20:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:19:33.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\ProductImage\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:06:12.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:01:47.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Controllers\\ManageController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:01:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwFkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:01:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Common.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Common\\Common.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Common\\Common.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Common\\Common.cs",
+              "RelativeToolTip": "QLTourDuLich\\Common\\Common.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:57:35.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Products\\ProductCategory.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Products\\ProductCategory.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAFIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:55:49.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:53:41.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatisticalController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:53:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:52:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAwwIAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:44:31.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Web.config",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Web.config",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Web.config",
+              "RelativeToolTip": "QLTourDuLich\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-22T00:43:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Startup.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Startup.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Startup.cs",
+              "RelativeToolTip": "QLTourDuLich\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:43:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:41:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Partial_ProductSales.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:36:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:47:59.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:47:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswBgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:47:41.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:47:04.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:46:44.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SendCode.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\SendCode.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\SendCode.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\SendCode.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\SendCode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:46:31.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VerifyCode.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\VerifyCode.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\VerifyCode.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\VerifyCode.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\VerifyCode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:46:30.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:46:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:46:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "QLTourDuLich\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:45:59.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:42:34.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExternalLoginConfirmation.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:26.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Partial_News_Home.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Partial_News_Home.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Article\\Partial_News_Home.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Partial_News_Home.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Article\\Partial_News_Home.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Article\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Detail.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Article\\Detail.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Article\\Detail.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Article\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:20.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:19.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Partial_Subcrice.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Partial_Subcrice.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Home\\Partial_Subcrice.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Partial_Subcrice.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Home\\Partial_Subcrice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLTourDuLich\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DA_COSO\\QLTourDuLich\\QLTourDuLich\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLTourDuLich\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T15:41:15.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

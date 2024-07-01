@@ -1,0 +1,122 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Thống kê</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Thống kê</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content"> 
+
+    <!-- Default box -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Thống kê doanh thu</h3>
+
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+                <button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div style="height:200px;width:400px;box-shadow: 0 0 10px 10px #eee;">
+                        <div class="text-center p-4" style="font-size:18px; font-weight:600;">Số lượng tour hiện tại</div>
+                        <div class="text-center" id="numberOfTour" style="font-size: 48px; font-weight: 500;"></div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div>
+                        <span style="width:80px;display:inline-block;">Từ ngày:</span>
+                        <input type="datetime-local" id="fromDate" /><br />
+                    </div>
+                    <div class="mt-2">
+                        <span style="width: 80px; display: inline-block;">Đến ngày: </span>
+                        <input type="datetime-local" id="toDate" />
+                    </div>
+                    <div class="mt-2">
+                        <button onclick="Search()" class="btn btn-success m-2">Tìm kiếm</button>
+                    </div>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Doanh thu</th>
+                                <th>Lợi nhuận</th>
+                            </tr>
+                        </thead>
+                        <tbody id="load_data"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- /.card-body -->
+        <!-- /.card-footer-->
+    </div>
+    <!-- /.card -->
+
+</section>
+<!-- /.content -->
+@section scripts{
+    <script src="~/Content/clients/plugins/chart.js/Chart.min.js"></script>
+    <script src="~/Content/assets/plugins/moment/moment.min.js"></script>
+    <script>
+        function Search() {
+
+            var from = document.getElementById('fromDate').value;
+            var to = document.getElementById('toDate').value;
+
+            $.ajax({
+                url: '/Statistical/GetStatistical',
+                type: 'GET',
+                data: { fromDate: from, toDate: to },
+                success: function (rs) {
+
+                    console.log(rs);
+                    load_data(rs.Data);
+                }
+            });
+
+
+        }
+
+        function load_data(data) {
+            var strHtml = "";
+            strHtml += "<tr>";
+            strHtml += "<td>" + data.DoanhThu + "</td>";
+            strHtml += "<td>" + data.LoiNhuan + "</td>";
+            strHtml += "</tr>";
+            $('#load_data').html(strHtml);
+        }
+
+        const numberOfTour = document.getElementById('numberOfTour');
+        $.ajax({
+            url: '/Statistical/GetNumberOfTour',
+            type: 'GET',
+            success: function (rs) {
+                console.log(rs.Data)
+                numberOfTour.textContent = rs.Data;
+            }
+        });
+
+    </script>
+}

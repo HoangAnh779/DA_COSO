@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Đặt chuyến đi Online";
+    ViewBag.SeoDescription = "Đặt chuyến đi Online";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/main_styles.css">
+
+
+<!-- New Arrivals -->
+
+<div class="new_arrivals">
+    <div class="container">
+        @Html.Action("MenuArrivals", "Menu")
+    </div>
+</div>
+
+
+<!-- Best Sellers -->
+@Html.Action("Partial_ProductSales", "Products")
+<!-- Benefit -->
+
+
+<!-- Blogs -->
+@Html.Action("Partial_News_Home", "Article")

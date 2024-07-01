@@ -1,0 +1,84 @@
+﻿@model IEnumerable<QLTourDuLich.Models.EF.ProductCategory>
+
+<div class="bd-example" style="margin-top: 125px;">
+	<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+		<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+		@for (int i = 0; i < 4; i++)
+		{
+			<li data-target="#carouselExampleCaptions" data-slide-to="@(i+1)"></li>
+		}
+	</ol>
+	<style>
+		.carousel-item {
+			background-size: cover;
+			height: 500px;
+			width: 100%;
+			background-position:center;
+		}
+		video {
+			position: fixed;
+			right: 0;
+			bottom: 0;
+			min-width: 100%;
+			min-height: 100%;
+			background-position: center;
+		}
+
+	</style>
+	<div class="carousel-inner">
+		<div class="carousel-item active"><video src="~/Content/assets/images/vid-2.mp4" type="video/mp4" loop autoplay muted></video></div>
+		<div class="carousel-item "><video src="~/Content/assets/images/vid-5.mp4" type="video/mp4" loop autoplay muted></video></div>
+		<div class="carousel-item "><video src="~/Content/assets/images/vid-4.mp4" type="video/mp4" loop autoplay muted></video></div>
+		<div class="carousel-item "><video src="~/Content/assets/images/vid-1.mp4" type="video/mp4" loop autoplay muted></video></div>
+		<div class="carousel-item "><video src="~/Content/assets/images/vid-3.mp4" type="video/mp4" loop autoplay muted></video></div>
+
+
+	</div> 
+		
+		<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <div class="section_title new_arrivals_title">
+                    <h2>CHUYẾN ĐI HẤP DẪN</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col text-center">
+                <div class="new_arrivals_sorting">
+                    <ul class="arrivals_grid_sorting clearfix button-group filters-button-group">
+                        <li class="grid_sorting_button button d-flex flex-column justify-content-center align-items-center active is-checked" data-filter="*">all</li>
+                        @foreach (var item in Model)
+                        {
+                            <li class="grid_sorting_button button d-flex flex-column justify-content-center align-items-center" data-filter=".@item.Alias">@item.Title</li>
+                        }
+
+                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
+                    @Html.Action("Partial_ItemsByCateId", "Products")
+                </div>
+            </div>
+        </div>
+
+    </div>
+}

@@ -1,0 +1,348 @@
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll.config
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.pdb
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe.config
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.rsp
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe.config
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.rsp
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.AppContext.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Collections.Immutable.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Console.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Globalization.Calendars.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Http.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Sockets.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Reflection.Metadata.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.ValueTuple.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe.config
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.rsp
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe.config
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\CKFinder.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Dapper.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\EntityFramework.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Web.Infrastructure.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Owin.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\PagedList.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\WebGrease.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\CKFinder.pdb
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Dapper.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\EntityFramework.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\PagedList.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.pdb
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDu.7E60E833.Up2Date
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.dll
+E:\DA_COSO\baocao\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.pdb
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll.config
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.pdb
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe.config
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.rsp
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe.config
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.rsp
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Managed.Core.targets
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.AppContext.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Collections.Immutable.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Console.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Globalization.Calendars.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Http.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Sockets.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Reflection.Metadata.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.ValueTuple.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XmlDocument.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe.config
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.rsp
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe.config
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\CKFinder.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Dapper.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\EntityFramework.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Web.Infrastructure.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Owin.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\PagedList.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\WebGrease.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\CKFinder.pdb
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Dapper.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\EntityFramework.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\PagedList.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.pdb
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDu.7E60E833.Up2Date
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.dll
+D:\bao cao bmtt\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.pdb
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll.config
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\WebBanHangOnline.pdb
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.exe.config
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csc.rsp
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.exe.config
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\csi.rsp
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.AppContext.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Collections.Immutable.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Console.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Globalization.Calendars.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Http.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Net.Sockets.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Reflection.Metadata.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.ValueTuple.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.exe.config
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\vbc.rsp
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\roslyn\VBCSCompiler.exe.config
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\CKFinder.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Dapper.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\EntityFramework.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Web.Infrastructure.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Owin.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\PagedList.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\WebGrease.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\CKFinder.pdb
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Dapper.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\EntityFramework.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\EntityFramework.SqlServer.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\PagedList.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\PagedList.Mvc.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Helpers.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Mvc.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Optimization.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.Razor.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Deployment.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\System.Web.WebPages.Razor.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Newtonsoft.Json.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Antlr3.Runtime.pdb
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Google.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDu.7E60E833.Up2Date
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.dll
+E:\DA_COSO\QLTourDuLich\QLTourDuLich\obj\Debug\WebBanHangOnline.pdb
